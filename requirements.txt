@@ -1,0 +1,6 @@
+pyssml
+oauth2client
+PyOpenSSL
+pymongo
+python-telegram-bot
+requests
